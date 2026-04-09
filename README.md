@@ -86,6 +86,10 @@ PS C:\Users\WolvesTI>
 
 > ⚠️ El instalador marca `✅ Installation complete!` pero **Claude Code no funciona** — la instalación en sí termina, pero no puede ejecutarse por la dependencia faltante.
 
+<img width="844" height="725" alt="Code" src="https://github.com/user-attachments/assets/077995e6-01be-4341-aa87-ec879205daca" />
+
+
+
 ---
 
 ## 🔍 ¿Por Qué Ocurre?
